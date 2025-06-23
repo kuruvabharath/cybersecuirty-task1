@@ -1,0 +1,14 @@
+
+Starting Nmap 7.94 ( https://nmap.org ) at 2025-06-23 15:20 UTC
+Note: Host discovery disabled (-Pn). All addresses will be marked 'up' and scanned.
+Nmap scan report for 192.168.131.175
+Host is up.
+PORT     STATE SERVICE
+80/tcp   open  http
+
+Nmap scan report for 192.168.131.175
+Host is up.
+PORT     STATE SERVICE
+23/tcp   closed telnet
+
+Nmap done: 256 IP addresses scanned in 20.45 seconds
