@@ -78,7 +78,7 @@ Skipped host discovery (ICMP ping), useful for detecting devices that block ping
 
 ## ✅ Submission Info
 - **Task:** Cybersecurity Internship – Task 1
-- **GitHub Repository:** []
+- **GitHub Repository:** https://github.com/kuruvabharath/cybersecuirty-task1
 - **Date:** 23-06-2025
 
 ---
